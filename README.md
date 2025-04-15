@@ -20,13 +20,6 @@ A simple interactive quiz application built with HTML, CSS, and JavaScript.
 - `styles.css` - Contains all styling for the application
 - `script.js` - Contains the interactive functionality
 
-## Screenshots
-
-The application includes three main screens:
-- Quiz Start Page
-- Quiz Questions Page
-- Quiz Results Page (shows score of 28/30)
-
 ## Design
 
-This application is based on Figma designs and implements a clean, modern UI with an emphasis on usability.
+This application is based on Figma designs and implements a clean, modern UI with an emphasis on usability. Check it out [here](https://www.figma.com/design/EnHjuhkOVG90QO1ivhgfoO/Quiz-app?node-id=6-485&t=NwNRp5olbGYO8bz4-1)
